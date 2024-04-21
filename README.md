@@ -122,6 +122,3 @@
     </footer>
 </body>
 </html>
-```
-
-This code sets up a simple website layout for a real estate company called "Billa Real Estate." It includes a header, navigation bar, featured properties section with images and details, and a footer. The CSS styles add advanced features like box shadows, transitions, and rounded corners to enhance the visual appeal of the website.
