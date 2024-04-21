@@ -51,7 +51,7 @@
             background-color: #101010;
             color: #fff;
             text-align: center;
-            padding: 20px 0;
+            padding: 40px 0;
             position: center;
             bottom: 0;
             width: 180%;
