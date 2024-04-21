@@ -54,7 +54,7 @@
             padding: 20px 0;
             position: center;
             bottom: 0;
-            width: 120%;
+            width: 180%;
             height: 6%;
             box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
         }
