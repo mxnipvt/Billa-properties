@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,10 +52,10 @@
             color: #fff;
             text-align: center;
             padding: 20px 0;
-            position: fixed;
+            position: center;
             bottom: 0;
-            width: 100%;
-            height: 3%;
+            width: 120%;
+            height: 6%;
             box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
         }
         .property {
